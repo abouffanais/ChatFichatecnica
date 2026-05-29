@@ -1,0 +1,384 @@
+ 
+=============================================== 
+  Inicio: 29-05-2026 12:12:17,90 
+=============================================== 
+[1/3] Generando stock.json... 
+=======================================================
+  Kitchen Center — Actualización de Stock
+=======================================================
+
+  29/05/2026 12:12:20
+  Abriendo Excel y refrescando conexión ODBC...
+Traceback (most recent call last):
+  File "C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\actualizar_stock.py", line 53, in refrescar_excel
+    print("  Excel refrescado y guardado \u2705")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abouffanais\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 30: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\actualizar_stock.py", line 169, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\actualizar_stock.py", line 135, in main
+    refrescar_excel(EXCEL_PATH)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\actualizar_stock.py", line 62, in refrescar_excel
+    print(f"  \u26a0\ufe0f  Error al refrescar Excel: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abouffanais\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+ERROR al generar stock.json 
+ 
+=============================================== 
+  Inicio: 29-05-2026 12:15:33,51 
+=============================================== 
+[1/3] Generando stock.json... 
+=======================================================
+  Kitchen Center - Actualizacion de Stock
+=======================================================
+
+  29/05/2026 12:15:35
+  Abriendo Excel y refrescando conexion ODBC...
+  Excel refrescado y guardado [OK]
+
+  Convirtiendo a JSON...
+  Leyendo: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\Stock_disponible.xlsx  (hoja: Consulta1)
+  Procesando... 5000/21046 filas
+  Procesando... 10000/21046 filas
+  Procesando... 15000/21046 filas
+  Procesando... 20000/21046 filas
+  SKUs procesados : 5,405
+  Con stock > 0   : 5,308
+
+  [OK] Archivo generado: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\netlify\functions\stock.json
+  Tamano: 5417 KB
+=======================================================
+Python OK 
+[2/3] Git add... 
+[2/3] Git commit... 
+[master b40b07b] Stock actualizado 29-05-2026 12:16:08,24
+ Committer: Alejandro Bouffanais <abouffanais@kitchencenter.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 56871 insertions(+), 56871 deletions(-)
+Resultado commit: 0 
+[3/3] Git push... 
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/abouffanais/ChatFichatecnica'
+ERROR PUSH - codigo: 1 
+ 
+=============================================== 
+  Inicio: 29-05-2026 12:21:18,81 
+=============================================== 
+[1/3] Generando stock.json... 
+=======================================================
+  Kitchen Center - Actualizacion de Stock
+=======================================================
+
+  29/05/2026 12:21:21
+  Abriendo Excel y refrescando conexion ODBC...
+  Excel refrescado y guardado [OK]
+
+  Convirtiendo a JSON...
+  Leyendo: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\Stock_disponible.xlsx  (hoja: Consulta1)
+  Procesando... 5000/21044 filas
+  Procesando... 10000/21044 filas
+  Procesando... 15000/21044 filas
+  Procesando... 20000/21044 filas
+  SKUs procesados : 5,405
+  Con stock > 0   : 5,308
+
+  [OK] Archivo generado: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\netlify\functions\stock.json
+  Tamano: 5417 KB
+=======================================================
+Python OK 
+[2/3] Git add... 
+[2/3] Git commit... 
+[master 16e0451] Stock actualizado 29-05-2026 12:21:50,09
+ Committer: Alejandro Bouffanais <abouffanais@kitchencenter.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 51920 insertions(+), 51934 deletions(-)
+Resultado commit: 0 
+[3/3] Git push... 
+To https://github.com/abouffanais/ChatFichatecnica
+ ! [rejected]        master -> main (fetch first)
+error: failed to push some refs to 'https://github.com/abouffanais/ChatFichatecnica'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ERROR PUSH - codigo: 1 
+ 
+=============================================== 
+  Inicio: 29-05-2026 12:29:54,94 
+=============================================== 
+[1/3] Generando stock.json... 
+=======================================================
+  Kitchen Center - Actualizacion de Stock
+=======================================================
+
+  29/05/2026 12:29:57
+  Abriendo Excel y refrescando conexion ODBC...
+  Excel refrescado y guardado [OK]
+
+  Convirtiendo a JSON...
+  Leyendo: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\Stock_disponible.xlsx  (hoja: Consulta1)
+  Procesando... 5000/21044 filas
+  Procesando... 10000/21044 filas
+  Procesando... 15000/21044 filas
+  Procesando... 20000/21044 filas
+  SKUs procesados : 5,405
+  Con stock > 0   : 5,308
+
+  [OK] Archivo generado: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\netlify\functions\stock.json
+  Tamano: 5417 KB
+=======================================================
+Python OK 
+[2/3] Git add... 
+[2/3] Git commit... 
+[master 9a2a423] Stock actualizado 29-05-2026 12:30:30,62
+ Committer: Alejandro Bouffanais <abouffanais@kitchencenter.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Resultado commit: 0 
+[3/3] Git push... 
+To https://github.com/abouffanais/ChatFichatecnica
+ ! [rejected]        master -> main (fetch first)
+error: failed to push some refs to 'https://github.com/abouffanais/ChatFichatecnica'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ERROR PUSH - codigo: 1 
+ 
+=============================================== 
+  Inicio: 29-05-2026 12:37:06,66 
+=============================================== 
+[1/3] Generando stock.json... 
+=======================================================
+  Kitchen Center - Actualizacion de Stock
+=======================================================
+
+  29/05/2026 12:37:11
+  Abriendo Excel y refrescando conexion ODBC...
+  Excel refrescado y guardado [OK]
+
+  Convirtiendo a JSON...
+  Leyendo: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\Stock_disponible.xlsx  (hoja: Consulta1)
+  Procesando... 5000/21044 filas
+  Procesando... 10000/21044 filas
+  Procesando... 15000/21044 filas
+  Procesando... 20000/21044 filas
+  SKUs procesados : 5,405
+  Con stock > 0   : 5,308
+
+  [OK] Archivo generado: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\netlify\functions\stock.json
+  Tamano: 5417 KB
+=======================================================
+Python OK 
+[2/3] Git add... 
+[2/3] Git commit... 
+[master 4293f5d] Stock actualizado 29-05-2026 12:37:39,76
+ Committer: Alejandro Bouffanais <abouffanais@kitchencenter.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Resultado commit: 0 
+[3/3] Git fetch + rebase... 
+From https://github.com/abouffanais/ChatFichatecnica
+ * [new branch]      main       -> origin/main
+error: Updating the following directories would lose untracked files in them:
+	netlify/functions/data
+
+error: The following untracked working tree files would be overwritten by checkout:
+	api/chat.js
+	api/list-products.js
+	api/stock-query.js
+	index.html
+	netlify/functions/stock-query.js
+	package.json
+	vercel.json
+Please move or remove them before you switch branches.
+Aborting
+error: could not detach HEAD
+[3/3] Git push... 
+To https://github.com/abouffanais/ChatFichatecnica
+ ! [rejected]        master -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/abouffanais/ChatFichatecnica'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ERROR PUSH - codigo: 1 
+ 
+=============================================== 
+  Inicio: 29-05-2026 12:39:34,54 
+=============================================== 
+[1/3] Generando stock.json... 
+=======================================================
+  Kitchen Center - Actualizacion de Stock
+=======================================================
+
+  29/05/2026 12:39:36
+  Abriendo Excel y refrescando conexion ODBC...
+  [ERROR] al refrescar Excel: Property 'Excel.Application.Visible' can not be set.
+  Usando el Excel tal como esta guardado...
+
+
+  Convirtiendo a JSON...
+  Leyendo: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\Stock_disponible.xlsx  (hoja: Consulta1)
+  Procesando... 5000/21044 filas
+  Procesando... 10000/21044 filas
+  Procesando... 15000/21044 filas
+  Procesando... 20000/21044 filas
+  SKUs procesados : 5,405
+  Con stock > 0   : 5,308
+
+  [OK] Archivo generado: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\netlify\functions\stock.json
+  Tamano: 5417 KB
+=======================================================
+Python OK 
+[2/3] Git add... 
+[2/3] Git commit... 
+[master ccab15a] Stock actualizado 29-05-2026 12:39:38,36
+ Committer: Alejandro Bouffanais <abouffanais@kitchencenter.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Resultado commit: 0 
+[3/3] Git fetch + rebase... 
+error: Updating the following directories would lose untracked files in them:
+	netlify/functions/data
+
+error: The following untracked working tree files would be overwritten by checkout:
+	api/chat.js
+	api/list-products.js
+	api/stock-query.js
+	index.html
+	netlify/functions/stock-query.js
+	package.json
+	vercel.json
+Please move or remove them before you switch branches.
+Aborting
+error: could not detach HEAD
+[3/3] Git push... 
+To https://github.com/abouffanais/ChatFichatecnica
+ ! [rejected]        master -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/abouffanais/ChatFichatecnica'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ERROR PUSH - codigo: 1 
+ 
+=============================================== 
+  Inicio: 29-05-2026 12:40:52,47 
+=============================================== 
+[1/3] Generando stock.json... 
+=======================================================
+  Kitchen Center - Actualizacion de Stock
+=======================================================
+
+  29/05/2026 12:40:54
+  Abriendo Excel y refrescando conexion ODBC...
+  [ERROR] al refrescar Excel: Property 'Excel.Application.Visible' can not be set.
+  Usando el Excel tal como esta guardado...
+
+
+  Convirtiendo a JSON...
+  Leyendo: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\Stock_disponible.xlsx  (hoja: Consulta1)
+  Procesando... 5000/21044 filas
+  Procesando... 10000/21044 filas
+  Procesando... 15000/21044 filas
+  Procesando... 20000/21044 filas
+  SKUs procesados : 5,405
+  Con stock > 0   : 5,308
+
+  [OK] Archivo generado: C:\Users\abouffanais\Documents\Claude\Projects\ChatbotCyber\netlify\functions\stock.json
+  Tamano: 5417 KB
+=======================================================
+Python OK 
+[2/3] Git add... 
+[2/3] Git commit... 
+[master 4d84cec] Stock actualizado 29-05-2026 12:40:55,58
+ Committer: Alejandro Bouffanais <abouffanais@kitchencenter.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Resultado commit: 0 
+[3/3] Git push... 
+To https://github.com/abouffanais/ChatFichatecnica
+ + 5c5827f...4d84cec master -> main (forced update)
+Push OK 
+Exito completo: 29-05-2026 12:41:02,39 

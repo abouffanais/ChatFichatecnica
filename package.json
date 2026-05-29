@@ -1,0 +1,9 @@
+{
+  "name": "chat-fichatecnica",
+  "version": "1.0.0",
+  "description": "Kitchen Center - Chatbot de Fichas Técnicas",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
