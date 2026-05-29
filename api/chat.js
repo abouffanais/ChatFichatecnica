@@ -1,24 +1,22 @@
 // api/chat.js — Vercel serverless function
-// Usa pdf-parse para extraer texto de los PDFs (más rápido que base64, evita timeout)
+// Lee fichas tecnicas desde archivos .txt (extraidos de PDFs, mucho mas livianos)
 
 const Anthropic = require("@anthropic-ai/sdk");
 const fs        = require("fs");
 const path      = require("path");
-const pdfParse  = require("pdf-parse");
 
-const client   = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-const PDFS_DIR = path.join(process.cwd(), "netlify", "functions", "pdfs");
+const client    = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const TEXTS_DIR = path.join(process.cwd(), "netlify", "functions", "texts");
 
-// Extrae texto plano de un PDF
-async function extraerTextoPDF(filename) {
+// Lee el texto de una ficha tecnica (.txt)
+function leerTextoFicha(filename) {
   try {
-    const filePath = path.join(PDFS_DIR, path.basename(filename));
-    if (!fs.existsSync(filePath)) return null;
-    const buffer = fs.readFileSync(filePath);
-    const data   = await pdfParse(buffer);
-    return data.text?.trim() || null;
+    const base    = path.basename(filename).replace(/\.pdf$/i, "");
+    const txtPath = path.join(TEXTS_DIR, base + ".txt");
+    if (!fs.existsSync(txtPath)) return null;
+    return fs.readFileSync(txtPath, "utf-8").trim() || null;
   } catch (e) {
-    console.error("Error leyendo PDF:", filename, e.message);
+    console.error("Error leyendo ficha:", filename, e.message);
     return null;
   }
 }
@@ -45,30 +43,30 @@ module.exports = async (req, res) => {
       return res.status(400).json({ error: "Se requieren mensajes" });
     }
 
-    // Extraer texto de los PDFs seleccionados
-    const contextosPDF = [];
+    // Cargar texto de las fichas seleccionadas
+    const contextosFicha = [];
     for (const product of products) {
-      if (product.path || product.filename) {
-        const filename = product.path || product.filename;
-        const texto = await extraerTextoPDF(filename);
+      const filename = product.path || product.filename;
+      if (filename) {
+        const texto = leerTextoFicha(filename);
         if (texto) {
-          contextosPDF.push(
-            `=== FICHA TÉCNICA: ${product.name || filename} (SKU: ${product.sku || 'N/A'}) ===\n${texto}`
+          contextosFicha.push(
+            `=== FICHA TECNICA: ${product.name || filename} (SKU: ${product.sku || "N/A"}) ===\n${texto}`
           );
         }
       }
     }
 
-    // System prompt con contexto de fichas técnicas
+    // System prompt con contexto de fichas tecnicas
     let systemPrompt = `Eres un asistente experto de Kitchen Center.
-Ayudas a equipos de ventas y técnicos a consultar fichas técnicas de productos.
-Responde siempre en español, de forma clara y profesional.
-Si te preguntan por especificaciones, medidas, características o comparaciones,
-usa únicamente la información de las fichas técnicas proporcionadas.
+Ayudas a equipos de ventas y tecnicos a consultar fichas tecnicas de productos.
+Responde siempre en espanol, de forma clara y profesional.
+Si te preguntan por especificaciones, medidas, caracteristicas o comparaciones,
+usa unicamente la informacion de las fichas tecnicas proporcionadas.
 Cuando hagas comparaciones, usa tablas en formato Markdown.`;
 
-    if (contextosPDF.length > 0) {
-      systemPrompt += `\n\nFICHAS TÉCNICAS DISPONIBLES:\n\n${contextosPDF.join('\n\n')}`;
+    if (contextosFicha.length > 0) {
+      systemPrompt += `\n\nFICHAS TECNICAS DISPONIBLES:\n\n${contextosFicha.join("\n\n")}`;
     }
 
     // Preparar mensajes (solo texto, sin documentos binarios)

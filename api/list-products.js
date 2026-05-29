@@ -1,11 +1,10 @@
 // api/list-products.js — Vercel serverless function
-// Equivalente a netlify/functions/list-products.js
-// Lista los PDFs disponibles en la carpeta netlify/functions/pdfs/
+// Lista los productos leyendo los archivos .txt en netlify/functions/texts/
 
 const fs   = require("fs");
 const path = require("path");
 
-const PDFS_DIR = path.join(process.cwd(), "netlify", "functions", "pdfs");
+const TEXTS_DIR = path.join(process.cwd(), "netlify", "functions", "texts");
 
 module.exports = async (req, res) => {
   // CORS
@@ -15,23 +14,22 @@ module.exports = async (req, res) => {
 
   if (req.method === "OPTIONS") return res.status(200).end();
 
-  // Verificación de acceso básica (token interno de Kitchen Center)
+  // Verificacion de acceso
   const authHeader = req.headers["authorization"] || "";
   if (!authHeader.includes("kc-internal") && !authHeader.startsWith("Bearer ")) {
     return res.status(401).json({ error: "No autorizado" });
   }
 
   try {
-    if (!fs.existsSync(PDFS_DIR)) {
+    if (!fs.existsSync(TEXTS_DIR)) {
       return res.status(200).json({ products: [] });
     }
 
-    const files = fs.readdirSync(PDFS_DIR).filter(f => f.toLowerCase().endsWith(".pdf"));
+    const files = fs.readdirSync(TEXTS_DIR).filter(f => f.toLowerCase().endsWith(".txt"));
 
     const products = files.map(filename => {
-      // Formato esperado: "13253 FT HORNO SMEG CLASSICA 90.pdf"
-      // Extraer SKU (número al inicio) y nombre
-      const nameWithoutExt = filename.replace(/\.pdf$/i, "");
+      // Formato: "16540 FT Refrigerador Smeg SBS IT.txt"
+      const nameWithoutExt = filename.replace(/\.txt$/i, "");
       const skuMatch       = nameWithoutExt.match(/^(\d+)/);
       const sku            = skuMatch ? skuMatch[1] : null;
       const name           = sku
@@ -43,11 +41,11 @@ module.exports = async (req, res) => {
         sku     : sku || "",
         name    : name || filename,
         filename: filename,
-        path    : filename
+        path    : filename   // chat.js recibe esto y busca el .txt
       };
     });
 
-    // Ordenar por SKU numéricamente
+    // Ordenar por SKU numericamente
     products.sort((a, b) => {
       const numA = parseInt(a.sku) || 0;
       const numB = parseInt(b.sku) || 0;
