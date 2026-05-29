@@ -11,7 +11,7 @@ const TEXTS_DIR = path.join(process.cwd(), "netlify", "functions", "texts");
 // Lee el texto de una ficha tecnica (.txt)
 function leerTextoFicha(filename) {
   try {
-    const base    = path.basename(filename).replace(/\.pdf$/i, "");
+    const base    = path.basename(filename).replace(/\.(pdf|txt)$/i, "");
     const txtPath = path.join(TEXTS_DIR, base + ".txt");
     if (!fs.existsSync(txtPath)) return null;
     return fs.readFileSync(txtPath, "utf-8").trim() || null;
