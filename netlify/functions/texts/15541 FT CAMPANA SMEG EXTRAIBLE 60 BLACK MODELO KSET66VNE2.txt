@@ -1,0 +1,304 @@
+KSET66VNE2
+KSET66VNE2
+Familia
+Familia
+Tipo Campana
+Tipo Campana
+Diseño
+Diseño
+Filtración
+Filtración
+M aterial
+M aterial
+Tipo de inox
+Tipo de inox
+Código EAN
+Código EAN
+Ancho
+Ancho
+Campana
+Integrada a la vista
+Telescopica
+Extracción
+Acero Inoxidable
+Cepillado
+8017709256920
+60 cm
+Estética
+Estética
+Estética
+Estética
+Color
+Color
+Acabado
+Acabado
+Mandos
+Mandos
+Línea
+Negro
+Satinado
+Tipo de vidrio
+Tipo de vidrio
+Color serigrafía
+Color serigrafía
+Logo
+Logo
+Negro
+Blanco
+Serigrafiado
+Regulación de mandos
+Regulación de mandos
+Slider
+Programas/Funciones
+Programas/Funciones
+N.° de velocidades
+N.° de velocidades
+3
+Características técnicas
+Características técnicas
+Nº de Luces
+Nº de Luces
+Tipo de Luz
+Tipo de Luz
+Potencia luz
+Potencia luz
+Capacidad máxima de
+Capacidad máxima de
+aspiración en
+aspiración en
+modalidad libre (P0)
+modalidad libre (P0)
+Potencia motor
+Potencia motor
+2
+Led
+1 W
+620 m³/h
+140 W
+Nº de Filtros
+Nº de Filtros
+Filtros antigrasa
+Filtros antigrasa
+Diámetro embocadura
+Diámetro embocadura
+motor
+motor
+Distancia mínima de la
+Distancia mínima de la
+encimera de gas
+encimera de gas
+Distancia mínima de la
+Distancia mínima de la
+encimera eléctrica
+encimera eléctrica
+2
+Aluminio
+150 mm
+650 mm
+650 mm
+SMEG SPA
+02/05/2024
+Capacidad de aspiración
+Capacidad de aspiración
+(IEC 61591) [m³/h]
+(IEC 61591) [m³/h]
+Rumorosidad (IEC
+Rumorosidad (IEC
+60704-2-13) [dB(A)]
+60704-2-13) [dB(A)]
+Velocidad
+1
+Velocidad
+2
+Velocidad
+3
+295
+435
+580
+52
+61
+68
+Prestaciones/Etiqueta energética
+Prestaciones/Etiqueta energética
+Consumo anual
+Consumo anual
+(AEChood)
+(AEChood)
+Clase eficiencia
+Clase eficiencia
+energética ( EEC)
+energética ( EEC)
+Eficiencia
+Eficiencia
+Fluidodinámica (FDE)
+Fluidodinámica (FDE)
+Clase de eficiencia
+Clase de eficiencia
+fluido dinámico (FDEC)
+fluido dinámico (FDEC)
+Clase de eficiencia de
+Clase de eficiencia de
+iluminación (LE)
+iluminación (LE)
+Eficiencia de iluminación
+Eficiencia de iluminación
+(LEC)
+(LEC)
+Eficiencia de filtrado de
+Eficiencia de filtrado de
+grasa (GFE)
+grasa (GFE)
+Clase de eficiencia de
+Clase de eficiencia de
+filtrado de grasa (GFEC)
+filtrado de grasa (GFEC)
+Flujo de aire a la
+Flujo de aire a la
+velocidad mínima
+velocidad mínima
+(Qmin)
+(Qmin)
+Flujo de aire a la
+Flujo de aire a la
+máxima potencia
+máxima potencia
+(Qmax)
+(Qmax)
+78 kWh/a
+C
+14.4
+D
+59 lux/W
+A
+76 %
+C
+295 m³/h
+580 m³/h
+Emisiones sonoras en el
+Emisiones sonoras en el
+aire ponderadas por el
+aire ponderadas por el
+valor A en su ajuste
+valor A en su ajuste
+mínimo de utilización
+mínimo de utilización
+normal:(SPEmin)
+normal:(SPEmin)
+Emisiones sonoras en el
+Emisiones sonoras en el
+aire ponderadas por el
+aire ponderadas por el
+valor A en su ajuste
+valor A en su ajuste
+máximo de utilización
+máximo de utilización
+normal: (SPEmax)
+normal: (SPEmax)
+Factor aumento de
+Factor aumento de
+tiempo (F)
+tiempo (F)
+Índice de eficiencia
+Índice de eficiencia
+energética primera
+energética primera
+cavidad
+cavidad
+Caudal de aire medido
+Caudal de aire medido
+en el mejor punto de
+en el mejor punto de
+eficiencia (Qbep)
+eficiencia (Qbep)
+Presión de aire medida
+Presión de aire medida
+en el mejor punto de
+en el mejor punto de
+eficiencia (Qbep)
+eficiencia (Qbep)
+Entrada de potencia
+Entrada de potencia
+eléctrica medida en el
+eléctrica medida en el
+mejor punto de
+mejor punto de
+eficiencia (W bep)
+eficiencia (W bep)
+52 dB(A)
+68 dB(A)
+1.5
+83.5
+322 m³/h
+224 Pa
+139 W
+Potencia normal sistema
+Potencia normal sistema
+de luz (W l)
+de luz (W l)
+Iluminación media sobre
+Iluminación media sobre
+la superfície de cocción
+la superfície de cocción
+Nivel de potencia
+Nivel de potencia
+acústica más alta (Lwa)
+acústica más alta (Lwa)
+2 W
+130 lux
+68 dB(A)
+Conexión eléctrica
+Conexión eléctrica
+Datos nominales de
+Datos nominales de
+conexión eléctrica
+conexión eléctrica
+Tensión
+Tensión
+142 W
+220-240 V
+Frecuencia
+Frecuencia
+Largo del cable de
+Largo del cable de
+alimentación
+alimentación
+50-60 Hz
+1500 mm
+SMEG SPA
+02/05/2024
+Disponible también
+Disponible también
+Otros colores
+Otros colores
+disponibles
+disponibles
+Blanco, Acero Inoxidable,
+Silver Glass
+Códigos de otros colores
+Códigos de otros colores
+disponibles
+disponibles
+KSET66VBE2 - KSET66E -
+KSET66VSE2
+SMEG SPA
+02/05/2024
+Not included accessories
+Not included accessories
+KITFC152
+KITFC152
+Filtros de carbón (kit 2 piezas)
+SMEG SPA
+02/05/2024
+Symbols glossary (TT)
+Symbols glossary (TT)
+Filtros de grasa: los filtros de grasa purifican el
+aire de las grasas de cocción. Son fácilmente
+extraíbles para su limpieza periódica.
+Luz: las campanas están equipadas con
+lámparas LED. La luz se puede encender
+independientemente del ventilador de succión y,
+por lo tanto, permite que se ilumine la superficie
+de trabajo.
+C: indica la clase energética del aparato.
+SMEG SPA
+02/05/2024

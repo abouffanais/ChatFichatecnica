@@ -1,0 +1,280 @@
+KSET62E
+KSET62E
+Familia
+Familia
+Tipo Campana
+Tipo Campana
+Diseño
+Diseño
+Filtración
+Filtración
+M aterial
+M aterial
+Código EAN
+Código EAN
+Estética
+Estética
+Color
+Color
+Color serigrafía
+Color serigrafía
+Logo
+Logo
+Campana
+Integrada a la vista
+Telescopica
+Extracción
+Material pintado
+8017709233044
+Universal
+Plata
+Negro
+Serigrafiado
+Mandos
+Mandos
+Regulación de mandos
+Regulación de mandos
+Botones
+Programas/Funciones
+Programas/Funciones
+N.° de velocidades
+N.° de velocidades
+3
+Características técnicas
+Características técnicas
+Nº de Luces
+Nº de Luces
+Tipo de Luz
+Tipo de Luz
+Potencia luz
+Potencia luz
+Escala de temperatura
+Escala de temperatura
+de color (° K)
+de color (° K)
+Capacidad máxima de
+Capacidad máxima de
+aspiración en
+aspiración en
+modalidad libre (P0)
+modalidad libre (P0)
+Potencia motor
+Potencia motor
+2
+LED
+3 W
+2700 °K
+304 m³/h
+115 W
+Nº de Filtros
+Nº de Filtros
+Filtros antigrasa
+Filtros antigrasa
+Diámetro embocadura
+Diámetro embocadura
+motor
+motor
+Distancia mínima de la
+Distancia mínima de la
+encimera de gas
+encimera de gas
+Distancia mínima de la
+Distancia mínima de la
+encimera eléctrica
+encimera eléctrica
+Válvula de retención
+Válvula de retención
+2
+Aluminio
+120 mm
+650 mm
+500 mm
+Sí
+Capacidad de aspiración
+Capacidad de aspiración
+(IEC 61591) [m³/h]
+(IEC 61591) [m³/h]
+Rumorosidad (IEC
+Rumorosidad (IEC
+60704-2-13) [dBA]
+60704-2-13) [dBA]
+125
+160
+46
+48
+Velocidad
+1
+Velocidad
+2
+SMEG SPA
+17/10/2025
+Velocidad
+3
+304
+62
+Prestaciones/Etiqueta energética
+Prestaciones/Etiqueta energética
+Consumo anual
+Consumo anual
+(AEChood)
+(AEChood)
+Clase eficiencia
+Clase eficiencia
+energética ( EEC)
+energética ( EEC)
+Eficiencia
+Eficiencia
+Fluidodinámica (FDE)
+Fluidodinámica (FDE)
+Clase de eficiencia
+Clase de eficiencia
+fluido dinámico (FDEC)
+fluido dinámico (FDEC)
+Clase de eficiencia de
+Clase de eficiencia de
+iluminación (LE)
+iluminación (LE)
+Eficiencia de iluminación
+Eficiencia de iluminación
+(LEC)
+(LEC)
+Eficiencia de filtrado de
+Eficiencia de filtrado de
+grasa (GFE)
+grasa (GFE)
+Clase de eficiencia de
+Clase de eficiencia de
+filtrado de grasa (GFEC)
+filtrado de grasa (GFEC)
+Flujo de aire a la
+Flujo de aire a la
+velocidad mínima
+velocidad mínima
+(Qmin)
+(Qmin)
+Flujo de aire a la
+Flujo de aire a la
+máxima potencia
+máxima potencia
+(Qmax)
+(Qmax)
+62 kWh/a
+D
+10.3
+E
+13 lux/W
+D
+66 %
+D
+125 m³/h
+304 m³/h
+Emisiones sonoras en el
+Emisiones sonoras en el
+aire ponderadas por el
+aire ponderadas por el
+valor A en su ajuste
+valor A en su ajuste
+mínimo de utilización
+mínimo de utilización
+normal:(SPEmin)
+normal:(SPEmin)
+Emisiones sonoras en el
+Emisiones sonoras en el
+aire ponderadas por el
+aire ponderadas por el
+valor A en su ajuste
+valor A en su ajuste
+máximo de utilización
+máximo de utilización
+normal: (SPEmax)
+normal: (SPEmax)
+Factor aumento de
+Factor aumento de
+tiempo (F)
+tiempo (F)
+Caudal de aire medido
+Caudal de aire medido
+en el mejor punto de
+en el mejor punto de
+eficiencia (Qbep)
+eficiencia (Qbep)
+Presión de aire medida
+Presión de aire medida
+en el mejor punto de
+en el mejor punto de
+eficiencia (Qbep)
+eficiencia (Qbep)
+Entrada de potencia
+Entrada de potencia
+eléctrica medida en el
+eléctrica medida en el
+mejor punto de
+mejor punto de
+eficiencia (W bep)
+eficiencia (W bep)
+Potencia normal sistema
+Potencia normal sistema
+de luz (W l)
+de luz (W l)
+Iluminación media sobre
+Iluminación media sobre
+la superfície de cocción
+la superfície de cocción
+Nivel de potencia
+Nivel de potencia
+acústica más alta (Lwa)
+acústica más alta (Lwa)
+46 dBA
+62 dBA
+1.6
+198 m³/h
+187 Pa
+99 W
+6 W
+78 lux
+62 dBA
+Conexión eléctrica
+Conexión eléctrica
+Datos nominales de
+Datos nominales de
+conexión eléctrica
+conexión eléctrica
+Tensión
+Tensión
+121 W
+220-240 V
+Frecuencia (Hz)
+Frecuencia (Hz)
+Longitud del cable de
+Longitud del cable de
+alimentación
+alimentación
+50-60 Hz
+1500 mm
+Opcionales no incluidos
+Opcionales no incluidos
+Filtro de carbón
+Filtro de carbón
+KITFC62
+SMEG SPA
+17/10/2025
+SMEG SPA
+17/10/2025
+Accesorios Compatible
+Accesorios Compatible
+KITFC62
+KITFC62
+SMEG SPA
+17/10/2025
+Symbols glossary
+Symbols glossary
+Filtros de grasa: los filtros de grasa purifican el
+aire de las grasas de cocción. Son fácilmente
+extraíbles para su limpieza periódica.
+Luz: las campanas están equipadas con
+lámparas LED. La luz se puede encender
+independientemente del ventilador de succión y,
+por lo tanto, permite que se ilumine la superficie
+de trabajo.
+SMEG SPA
+17/10/2025

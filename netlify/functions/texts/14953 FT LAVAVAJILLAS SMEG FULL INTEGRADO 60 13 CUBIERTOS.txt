@@ -1,0 +1,67 @@
+Ficha de información del producto
+REGLAMENTO DELEGADO (UE) 2019/2017 DE LA COMISIÓN
+Nombre o marca del proveedor: SMEG
+Supplier’s address: Via Leonardo da Vinci, 4 42016 Guastalla (RE) - Italy
+Identificador del modelo: ST211DS
+Parámetros generales del producto:
+Parámetro
+Valor
+Parámetro
+Capacidad nominal (ps)
+13
+Dimensiones en cm
+EEI
+Cleaning performance index
+Energy consumption in kWh (per
+cycle), based on the eco programme
+using cold water fill. Actual energy
+consumption will depend on how the
+appliance is used.
+Programme duration (h:min)
+Airborne acoustical noise emissions
+(dB(A) re 1 pW)
+Off-mode (W) (if applicable)
+Delay start (W) (if applicable)
+49.9
+1.125
+0.835
+3:35
+51
+0.50
+2.00
+Clase de eficiencia
+energética del modelo
+Drying performance index
+Water consumption in litres
+(per cycle), based on the eco
+programme. Actual water
+consumption will depend on
+how the appliance is used
+and on the hardness of the
+water.
+Type
+Airborne acoustical noise
+emission class
+Standby mode (W) (if
+applicable)
+Networked standby (W) (if
+applicable)
+Valor
+Height
+Width
+Depth
+82
+60
+55
+A
+1.065
+12.0
+built-in
+D
+0.50
+—
+Minimum duration of the guarantee offered by the supplier: 24 meses
+Información adicional:
+Weblink to the supplier’s website, where the information in point 6 of Annex II to Commission Regulation (EU) 2019/2022 (1) (b) is found:
+https://www.smeg.com/services/customer-service
+Page 1 / 1

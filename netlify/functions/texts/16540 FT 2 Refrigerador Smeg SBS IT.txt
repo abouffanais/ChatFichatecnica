@@ -1,0 +1,330 @@
+S9L1741D
+S9L1741D
+Familia
+Familia
+Instalación
+Instalación
+Categoría
+Categoría
+Nicho de empotrado
+Nicho de empotrado
+Ancho de referencia
+Ancho de referencia
+Altura de referencia
+Altura de referencia
+Sistema de refrigeración
+Sistema de refrigeración
+Descongelación
+Descongelación
+Tipo de bisagra
+Tipo de bisagra
+Posición bisagra
+Posición bisagra
+Puerta reversible
+Puerta reversible
+Código EAN
+Código EAN
+Estética
+Estética
+Frigorífico
+Integración
+Monopuerta
+178
+Hasta 60 cm
+160 - 200 cm
+Ventilado
+Automático
+Bisagra deslizante
+Derecha
+Sí
+8017709348045
+Universal
+Estética
+Estética
+M aterial de la puerta
+Chapa
+M aterial de la puerta
+M aterial de los laterales Acero
+M aterial de los laterales
+Blanco
+Color laterales
+Color laterales
+Plata
+Color del perfil de los
+Color del perfil de los
+estantes de la puerta
+estantes de la puerta
+Color del perfil de los
+Color del perfil de los
+cajones
+cajones
+Color del perfil del
+Color del perfil del
+estante de vidrio
+estante de vidrio
+Pantalla
+Pantalla
+Posición display
+Posición display
+Plata
+Plata
+LCD táctil
+Interno (en la parte
+superior)
+Instalación compartimento frigorífico
+Instalación compartimento frigorífico
+Number of
+Number of
+compartments
+compartments
+Compartment types
+Compartment types
+Número estantes
+Número estantes
+regulables
+regulables
+Número de cajones fruta
+Número de cajones fruta
+y verdura
+y verdura
+Shelves material
+Shelves material
+Tipo de cajón
+Tipo de cajón
+2
+Low temperature
+compartment, Fruit and
+vegetable compartment
+5
+1
+Vidrio
+Railes deslizables
+Estante cubre cajón
+Estante cubre cajón
+para la verdura
+para la verdura
+Tipología estante cubre
+Tipología estante cubre
+cajón de verduras
+cajón de verduras
+Nº de Luces
+Nº de Luces
+Compartimento baja
+Compartimento baja
+temperatura
+temperatura
+Iluminación interna
+Iluminación interna
+frigorífico
+frigorífico
+Tipo de iluminación
+Tipo de iluminación
+interior frigorífico
+interior frigorífico
+Sí
+Vidrio
+2
+Sí
+Sí
+LED
+Contrapuerta compartimento frigorífico
+Contrapuerta compartimento frigorífico
+SMEG SPA
+13/04/2026
+Número de
+Número de
+compartimentos con
+compartimentos con
+tapa transparente
+tapa transparente
+Número compartimentos
+Número compartimentos
+de puerta regulables
+de puerta regulables
+1
+3
+Otros equipos frigorífico
+Otros equipos frigorífico
+Número de
+Número de
+compartimento
+compartimento
+portabotellas
+portabotellas
+1
+Accesorios
+Accesorios
+Huevera
+Ventilador
+Ventilador
+Sí
+Otras características técnicas
+Otras características técnicas
+Funciones pantalla
+Funciones pantalla
+Testigo funcionamiento
+Testigo funcionamiento
+Testigo alarmas temperatura
+Testigo alarmas temperatura
+Alarma apertura puerta
+Alarma apertura puerta
+Temperatura Alarma
+Temperatura Alarma
+Tipo de control de la temperatura
+Tipo de control de la temperatura
+Número de compresores
+Número de compresores
+Tipo de gas refrigerante
+Tipo de gas refrigerante
+Tipo de compresor
+Tipo de compresor
+Cantidad de gas refrigerante (gr)
+Cantidad de gas refrigerante (gr)
+Agente espumante
+Agente espumante
+Holiday, Enfriamiento rápido, Alarma temperatura
+Sí
+Sí
+Sí
+Sí
+Electrónico
+1
+R600a
+Compresor Inverter
+42 g
+Ciclopentano
+Rendimiento / Etiqueta energética - Reg. 2019
+Rendimiento / Etiqueta energética - Reg. 2019
+Consumo anual de
+Consumo anual de
+energía
+energía
+Clase de eficiencia
+Clase de eficiencia
+energética del modelo
+energética del modelo
+Airborne acoustical
+Airborne acoustical
+noise emission class
+noise emission class
+Volumen neto total
+Volumen neto total
+91 kWh/a
+D
+B
+310 l
+Conexión eléctrica
+Conexión eléctrica
+Datos nominales de
+Datos nominales de
+conexión eléctrica
+conexión eléctrica
+Corriente
+Corriente
+Tensión
+Tensión
+100 W
+0,7 A
+220-240 V
+Datos logísticos
+Datos logísticos
+Volumen total
+Volumen total
+compartimento
+compartimento
+frigorífico
+frigorífico
+Rumorosidad
+Rumorosidad
+Clase climática
+Clase climática
+EEIEEI
+310 l
+32 dB(A) re 1 pW
+SN, N, ST, T
+80 %
+Frecuencia (Hz)
+Frecuencia (Hz)
+Longitud del cable de
+Longitud del cable de
+alimentación
+alimentación
+Enchufe
+Enchufe
+50 Hz
+240 cm
+Schuko (F;E)
+Altura con patas
+Altura con patas
+1772 mm
+SMEG SPA
+13/04/2026
+Ancho del producto
+Ancho del producto
+(mm)
+(mm)
+Ancho del hueco de
+Ancho del hueco de
+encastre
+encastre
+Profundidad sin tirador
+Profundidad sin tirador
+Profundidad del hueco
+Profundidad del hueco
+de encastre
+de encastre
+546 mm
+560 mm
+549 mm
+550 mm
+Altura del hueco de
+Altura del hueco de
+encastre
+encastre
+Ancho del producto con
+Ancho del producto con
+apertura máxima de
+apertura máxima de
+puertas
+puertas
+1780 mm
+548 mm
+SMEG SPA
+13/04/2026
+Symbols glossary
+Symbols glossary
+Descongelación automática: todos los modelos
+de refrigerador están equipados con
+descongelación automática en el compartimiento
+del refrigerador.
+Pantalla LCD: para optimizar el rendimiento y
+hacer que el uso del aparato sea lo más fácil
+posible, algunas lavadoras y refrigeradores
+están equipados con una pantalla LCD que le
+permite ver el estado operativo del producto.
+Función de vacaciones: esta función es
+particularmente útil en casos de ausencia
+prolongada del hogar, le permite desactivar el
+funcionamiento del departamento de
+refrigeradores y mantener solo el congelador en
+funcionamiento.
+Motor inverter: para lavadoras y secadoras: la
+evolución de las lavadoras y secadoras Smeg
+hacia modelos más inteligentes y eco-sostenibles
+ha llevado a la elección de la tecnología Inverter
+con bomba de calor que reduce
+significativamente el consumo de energía. Para
+lavavajillas: el motor inversor de última
+generación garantiza una mayor vida útil,
+eficiencia y consumo reducido, así como un
+silencio absoluto.
+Clase eficiencia energética D
+Ventilado: sistema de ventilación de enfriamiento
+que permite difundir constante y uniformemente
+el aire dentro del refrigerador.
+Iluminación LED interna: la iluminación LED
+interna garantiza el ahorro de energía y al mismo
+tiempo ofrece una luz de atmósfera.
+Altura encastre
+SMEG SPA
+13/04/2026

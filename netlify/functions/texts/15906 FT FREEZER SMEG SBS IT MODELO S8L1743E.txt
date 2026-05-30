@@ -1,0 +1,289 @@
+S8L1743E
+S8L1743E
+Familia
+Familia
+Instalación
+Instalación
+Categoría
+Categoría
+Nicho de empotrado
+Nicho de empotrado
+Ancho de referencia
+Ancho de referencia
+Altura de referencia
+Altura de referencia
+Sistema de refrigeración
+Sistema de refrigeración
+Descongelación
+Descongelación
+Tipo de bisagra
+Tipo de bisagra
+Posición bisagra
+Posición bisagra
+Puerta reversible
+Puerta reversible
+Código EAN
+Código EAN
+Estética
+Estética
+Frigorífico
+Integración
+Monopuerta
+178
+Until 60
+160 - 200
+Ventilado
+Automático
+Bisagra deslizante
+Derecha
+Si
+8017709292348
+Universal
+Estética
+Estética
+Blanco
+Color
+Color
+M aterial de la puerta
+Chapa
+M aterial de la puerta
+M aterial de los laterales Acero
+M aterial de los laterales
+Blanco
+Color laterales
+Color laterales
+Serigrafiado
+Logo
+Logo
+Color del perfil de los
+Color del perfil de los
+estantes de la puerta
+estantes de la puerta
+Color del perfil de los
+Color del perfil de los
+cajones
+cajones
+Color del perfil del
+Color del perfil del
+estante de vidrio
+estante de vidrio
+Pantalla
+Pantalla
+Posición display
+Posición display
+Silver
+Silver
+Silver
+Touch LCD
+Interno (en la parte
+superior)
+Instalación compartimento frigorífico
+Instalación compartimento frigorífico
+Número estantes
+Número estantes
+regulables
+regulables
+Número de cajones fruta
+Número de cajones fruta
+y verdura
+y verdura
+Tipología estantes
+Tipología estantes
+regulables
+regulables
+Tipo de cajón
+Tipo de cajón
+Estante cubre cajón
+Estante cubre cajón
+para la verdura
+para la verdura
+5
+1
+Cristal
+Railes deslizables
+Si
+Tipología estante cubre
+Tipología estante cubre
+cajón de verduras
+cajón de verduras
+Compartimento baja
+Compartimento baja
+temperatura
+temperatura
+Iluminación interna
+Iluminación interna
+frigorífico
+frigorífico
+Tipo de iluminación
+Tipo de iluminación
+interior frigorífico
+interior frigorífico
+Cristal
+Si
+Si
+Led
+Contrapuerta compartimento frigorífico
+Contrapuerta compartimento frigorífico
+SMEG SPA
+04/09/2024
+Número de
+Número de
+compartimentos con
+compartimentos con
+tapa transparente
+tapa transparente
+Número compartimentos
+Número compartimentos
+de puerta regulables
+de puerta regulables
+1
+3
+Otros equipos frigorífico
+Otros equipos frigorífico
+Número de
+Número de
+compartimento
+compartimento
+portabotellas
+portabotellas
+1
+Accesorios
+Accesorios
+Kit listeria, Huevera
+Ventilador
+Ventilador
+Si
+Otras características técnicas
+Otras características técnicas
+Funciones pantalla
+Funciones pantalla
+Testigo alarmas temperatura
+Testigo alarmas temperatura
+Alarma apertura puerta
+Alarma apertura puerta
+Temperatura Alarma
+Temperatura Alarma
+Tipo de control de la temperatura
+Tipo de control de la temperatura
+Número de compresores
+Número de compresores
+Tipo de gas refrigerante
+Tipo de gas refrigerante
+Tipo de compresor
+Tipo de compresor
+Cantidad de gas refrigerante (gr)
+Cantidad de gas refrigerante (gr)
+Agente espumante
+Agente espumante
+Holiday, Enfriamiento rápido, Bloqueo de teclas, Alarma
+temperatura, Temporizador de enfriam.
+Si
+Si
+Si
+Electrónico
+1
+R600a
+Estándar
+38 g
+Ciclopentano
+Rendimiento / Etiqueta energética - Reg. 2019
+Rendimiento / Etiqueta energética - Reg. 2019
+Consumo anual de
+Consumo anual de
+energía
+energía
+Clase de eficiencia
+Clase de eficiencia
+energética del modelo
+energética del modelo
+Airborne acoustical
+Airborne acoustical
+noise emission class
+noise emission class
+Volumen neto total
+Volumen neto total
+114 kWh/a
+E
+B
+311 l
+Conexión eléctrica
+Conexión eléctrica
+Enchufe
+Enchufe
+Datos nominales de
+Datos nominales de
+conexión eléctrica
+conexión eléctrica
+Corriente
+Corriente
+(F;E) Schuko
+100 W
+0.7 A
+Volumen total
+Volumen total
+compartimento
+compartimento
+frigorífico
+frigorífico
+Rumorosidad
+Rumorosidad
+Clase climática
+Clase climática
+EEIEEI
+311 l
+34 dB(A) re 1pW
+SN, N, ST
+100 %
+Tensión
+Tensión
+Frecuencia
+Frecuencia
+Largo del cable de
+Largo del cable de
+alimentación
+alimentación
+230-240 V
+50 Hz
+240 cm
+SMEG SPA
+04/09/2024
+SMEG SPA
+04/09/2024
+Symbols glossary (TT)
+Symbols glossary (TT)
+Descongelación automática: todos los modelos
+de refrigerador están equipados con
+descongelación automática en el compartimiento
+del refrigerador.
+A ++: los dispositivos Smeg permiten un
+considerable ahorro de energía en Clase A, A +, A
+++ y A +++, para reducir el consumo mientras se
+mantiene la máxima eficiencia y garantizar el
+respeto por el medio ambiente.
+Pantalla LCD: para optimizar el rendimiento y
+hacer que el uso del aparato sea lo más fácil
+posible, algunas lavadoras y refrigeradores
+están equipados con una pantalla LCD que le
+permite ver el estado operativo del producto.
+Función de vacaciones: esta función es
+particularmente útil en casos de ausencia
+prolongada del hogar, le permite desactivar el
+funcionamiento del departamento de
+refrigeradores y mantener solo el congelador en
+funcionamiento.
+Altura encastre
+Bloqueo de control: la opción de bloqueo de
+mandos, presente en diferentes tipos de
+productos, le permite bloquear todas las
+funciones y programas establecidos, así como los
+controles, para una seguridad total,
+especialmente en presencia de niños.
+Clase eficiencia energética E
+Ventilado: sistema de ventilación de enfriamiento
+que permite difundir constante y uniformemente
+el aire dentro del refrigerador.
+Iluminación LED interna: la iluminación LED
+interna garantiza el ahorro de energía y al mismo
+tiempo ofrece una luz de atmósfera.
+SMEG SPA
+04/09/2024

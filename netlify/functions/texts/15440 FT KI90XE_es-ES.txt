@@ -1,0 +1,350 @@
+KI90XE
+KI90XE
+Familia
+Familia
+Tipo Campana
+Tipo Campana
+Diseño
+Diseño
+Filtración
+Filtración
+Control electrónico
+Control electrónico
+M aterial
+M aterial
+Tipo de inox
+Tipo de inox
+Código EAN
+Código EAN
+Ancho
+Ancho
+Estética
+Estética
+Estética
+Estética
+Color
+Color
+Mandos
+Mandos
+Campana
+Decoración isla
+Forma de T
+Extracción
+Si
+Acero Inoxidable
+Cepillado
+8017709204044
+90 cm
+Universal
+Acero Inoxidable
+Acabado
+Acabado
+Logo
+Logo
+Satinado
+Embutido
+Regulación de mandos
+Regulación de mandos
+Teclas electrónicas
+Color Led
+Color Led
+Blanco
+Programas/Funciones
+Programas/Funciones
+N.° de velocidades
+N.° de velocidades
+Velocidad intensiva
+Velocidad intensiva
+Opciones de programación tiempo
+Opciones de programación tiempo
+Características técnicas
+Características técnicas
+Nº de Luces
+Nº de Luces
+Tipo de Luz
+Tipo de Luz
+Potencia luz
+Potencia luz
+Escala de temperatura
+Escala de temperatura
+de color (° K)
+de color (° K)
+Capacidad máxima de
+Capacidad máxima de
+aspiración en
+aspiración en
+modalidad libre (P0)
+modalidad libre (P0)
+4
+Led
+1 W
+4000 °K
+820 m³/h
+SMEG SPA
+3
+Filtros antigrasa
+Filtros antigrasa
+Indicador cambio de
+Indicador cambio de
+filtros
+filtros
+Diámetro embocadura
+Diámetro embocadura
+motor
+motor
+Distancia mínima de la
+Distancia mínima de la
+encimera de gas
+encimera de gas
+Aluminio
+Si
+150 mm
+750 mm
+27/09/2024
+Potencia motor
+Potencia motor
+Nº de Filtros
+Nº de Filtros
+275 W
+3
+Distancia mínima de la
+Distancia mínima de la
+encimera eléctrica
+encimera eléctrica
+Válvula de retención
+Válvula de retención
+650 mm
+Si
+Capacidad de aspiración
+Capacidad de aspiración
+(IEC 61591) [m³/h]
+(IEC 61591) [m³/h]
+Rumorosidad (IEC
+Rumorosidad (IEC
+60704-2-13) [dB(A)]
+60704-2-13) [dB(A)]
+Velocidad
+1
+Velocidad
+2
+Velocidad
+3
+Velocidad
+intensiva
+311
+385
+533
+740
+49
+59
+63
+71
+Equipo accesorios incluidos
+Equipo accesorios incluidos
+Reducción manguera
+Reducción manguera
+Si
+Prestaciones/Etiqueta energética
+Prestaciones/Etiqueta energética
+Consumo anual
+Consumo anual
+(AEChood)
+(AEChood)
+Clase eficiencia
+Clase eficiencia
+energética ( EEC)
+energética ( EEC)
+Eficiencia
+Eficiencia
+Fluidodinámica (FDE)
+Fluidodinámica (FDE)
+Clase de eficiencia
+Clase de eficiencia
+fluido dinámico (FDEC)
+fluido dinámico (FDEC)
+Clase de eficiencia de
+Clase de eficiencia de
+iluminación (LE)
+iluminación (LE)
+Eficiencia de iluminación
+Eficiencia de iluminación
+(LEC)
+(LEC)
+Eficiencia de filtrado de
+Eficiencia de filtrado de
+grasa (GFE)
+grasa (GFE)
+Clase de eficiencia de
+Clase de eficiencia de
+filtrado de grasa (GFEC)
+filtrado de grasa (GFEC)
+Flujo de aire a la
+Flujo de aire a la
+velocidad mínima
+velocidad mínima
+(Qmin)
+(Qmin)
+Flujo de aire a la
+Flujo de aire a la
+máxima potencia
+máxima potencia
+(Qmax)
+(Qmax)
+Flujo de aire en posición
+Flujo de aire en posición
+reforzada Qboost)
+reforzada Qboost)
+66 kWh/a
+B
+27,4
+B
+88,6 lux/W
+A
+83,1 %
+C
+311 m³/h
+533 m³/h
+740 m³/h
+Emisiones sonoras en el
+Emisiones sonoras en el
+aire ponderadas por el
+aire ponderadas por el
+valor A en su ajuste
+valor A en su ajuste
+mínimo de utilización
+mínimo de utilización
+normal:(SPEmin)
+normal:(SPEmin)
+Emisiones sonoras en el
+Emisiones sonoras en el
+aire ponderadas por el
+aire ponderadas por el
+valor A en su ajuste
+valor A en su ajuste
+máximo de utilización
+máximo de utilización
+normal: (SPEmax)
+normal: (SPEmax)
+Emisiones sonoras en el
+Emisiones sonoras en el
+aire ponderadas por el
+aire ponderadas por el
+valor A en posición
+valor A en posición
+ultrarrápida o
+ultrarrápida o
+reforzada:
+(SPEboost)
+reforzada: (SPEboost)
+Consumo de electricidad
+Consumo de electricidad
+en modo de espera: (Ps)
+en modo de espera: (Ps)
+Índice de eficiencia
+Índice de eficiencia
+energética primera
+energética primera
+cavidad
+cavidad
+Caudal de aire medido
+Caudal de aire medido
+en el mejor punto de
+en el mejor punto de
+eficiencia (Qbep)
+eficiencia (Qbep)
+Presión de aire medida
+Presión de aire medida
+en el mejor punto de
+en el mejor punto de
+eficiencia (Qbep)
+eficiencia (Qbep)
+Entrada de potencia
+Entrada de potencia
+eléctrica medida en el
+eléctrica medida en el
+mejor punto de
+mejor punto de
+eficiencia (W bep)
+eficiencia (W bep)
+49 dB(A)
+63 dB(A)
+71 dB(A)
+0,49 W
+58,8
+390 m³/h
+451 Pa
+171 W
+SMEG SPA
+27/09/2024
+Potencia normal sistema
+Potencia normal sistema
+de luz (W l)
+de luz (W l)
+Iluminación media sobre
+Iluminación media sobre
+la superfície de cocción
+la superfície de cocción
+Nivel de potencia
+Nivel de potencia
+acústica más alta (Lwa)
+acústica más alta (Lwa)
+4 W
+390 lux
+63 dB(A)
+Conexión eléctrica
+Conexión eléctrica
+Datos nominales de
+Datos nominales de
+conexión eléctrica
+conexión eléctrica
+Tensión
+Tensión
+279 W
+220-240 V
+Frecuencia
+Frecuencia
+Largo del cable de
+Largo del cable de
+alimentación
+alimentación
+50-60 Hz
+1500 mm
+SMEG SPA
+27/09/2024
+Not included accessories
+Not included accessories
+FLT6
+FLT6
+Filtro carbón activo (2 piezas)
+KITALLFC
+KITALLFC
+Filtro de carbón universal. Acero
+inoxidable AISI 304. El filtro se puede
+lavar en lavavajillas a 50 ° C (agua y
+detergente adecuado) y para secar
+meter al horno 180 ° C 25 minutos
+SMEG SPA
+27/09/2024
+Symbols glossary (TT)
+Symbols glossary (TT)
+Filtros de grasa: los filtros de grasa purifican el
+aire de las grasas de cocción. Son fácilmente
+extraíbles para su limpieza periódica.
+Luz: las campanas están equipadas con
+lámparas LED. La luz se puede encender
+independientemente del ventilador de succión y,
+por lo tanto, permite que se ilumine la superficie
+de trabajo.
+Apagado automático: la opción de apagado
+automático le permite programar el tiempo de
+desactivación de la campana, que continuará
+purificando el aire hasta que se apague
+automáticamente.
+Señal luminosa: se enciende una señal luminosa
+cuando es necesario reemplazar los filtros de
+carbón activado.
+Función Turbo: La función Turbo le permite operar
+la campana a la máxima potencia, para acelerar
+la eliminación de olores más persistentes.
+SMEG SPA
+27/09/2024

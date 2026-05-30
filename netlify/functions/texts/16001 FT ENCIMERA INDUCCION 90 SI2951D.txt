@@ -1,0 +1,337 @@
+SI2951D
+SI2951D
+Familia
+Familia
+Instalación
+Instalación
+Dimensión
+Dimensión
+Alimentación
+Alimentación
+Tipología
+Tipología
+Código EAN
+Código EAN
+Encimera de cocción
+Perfil semifilo o enrasada
+90 cm
+Eléctrico
+Inducción
+8017709310080
+Estética
+Estética
+Estética
+Estética
+Color
+Color
+Acabado
+Acabado
+M aterial
+M aterial
+Tipo de vidrio
+Tipo de vidrio
+Borde de vidrio
+Borde de vidrio
+Tipo de regulación mandos
+Tipo de regulación mandos
+Tipo de regulación mandos
+Tipo de regulación mandos
+Posición mandos
+Posición mandos
+Color de la serigrafía
+Color de la serigrafía
+Programas/Funciones
+Programas/Funciones
+Universal
+Negro
+Cristal
+Cristal
+Cerámico
+Borde recto
+Control táctil
+Rojo
+Frontal
+Gris
+Número de zonas de cocción por inducción
+Número de zonas de cocción por inducción
+Opciones de programación tiempo
+Opciones de programación tiempo
+Número de zonas de cocción con booster
+Número de zonas de cocción con booster
+Tecla principal on/off
+Tecla principal on/off
+Niveles de potencia
+Niveles de potencia
+Número total de zonas de cocción
+Número total de zonas de cocción
+5
+Apagado automático
+5
+Sí
+9
+5
+Opciones
+Opciones
+SMEG SPA
+03/07/2025
+Hueco estándar
+Hueco estándar
+482-486x839-844 mm
+M antenimiento del calor Sí
+M antenimiento del calor
+5
+Temporizador fin de
+Temporizador fin de
+cocción
+cocción
+Opción paro
+Opción paro
+Cuentaminutos
+Cuentaminutos
+Alarma acústica de fin
+Alarma acústica de fin
+de cocción
+de cocción
+Visualización del tiempo
+Visualización del tiempo
+restante
+restante
+Sí
+1
+Sí
+Sí
+Características técnicas
+Características técnicas
+Opción de limitador de
+Opción de limitador de
+potencia
+potencia
+Si Advance
+Opción de limitador de
+Opción de limitador de
+potencia - Step
+potencia - Step
+Opción Show Room
+Opción Show Room
+Demo
+Demo
+Opción de bloqueo
+Opción de bloqueo
+botones/seguridad para
+botones/seguridad para
+niños
+niños
+Inicio rápido
+Inicio rápido
+Selección rápida de
+Selección rápida de
+niveles
+niveles
+2400 a 7400 - step 100 W
+Sí
+Sí
+Sí
+Sí
+Anterior izquierda - Inducción - individual - 1.40 kW - Booster 2.10 kW - Ø 16.0 cm
+Posterior izquierda - Inducción - individual - 2.30 kW - Booster 3.00 kW - Ø 20.0 cm
+Central - Inducción - individual - 2.30 kW - Booster 3.00 kW - Ø 25.0 cm
+Posterior derecha - Inducción - individual - 2.30 kW - Booster 3.00 kW - Ø 20.0 cm
+Anterior derecha - Inducción - individual - 1.40 kW - Booster 2.10 kW - Ø 16.0 cm
+Adaptación automática
+Detención automática
+Detención automática
+Adaptación automática
+en caso de
+en caso de
+al diámetro de la olla
+al diámetro de la olla
+sobrecalentamiento
+sobrecalentamiento
+Sensor de presencia de
+Sensor de presencia de
+Detención automática
+Detención automática
+ollas
+ollas
+en caso de
+en caso de
+Detección automática
+Detección automática
+desbordamiento
+desbordamiento
+permanente de ollas con
+permanente de ollas con
+Indicador de calor
+Indicador de calor
+indicación del control
+indicación del control
+residual
+residual
+relativo.
+relativo.
+Protección contra
+Protección contra
+Indicador diámetro
+Indicador diámetro
+encendido accidental
+encendido accidental
+mínimo de uso
+mínimo de uso
+Sí, mínimo 7 cm
+Sí
+Sí
+Sí
+Sí
+Sí
+Sí
+Sí
+Conexión eléctrica
+Conexión eléctrica
+Datos nominales de
+Datos nominales de
+conexión eléctrica
+conexión eléctrica
+Corriente
+Corriente
+Tensión (V)
+Tensión (V)
+Tensión 2 (V)
+Tensión 2 (V)
+Tipo de cable eléctrico
+Tipo de cable eléctrico
+7400 W
+33 A
+220-240 V
+380-415 V
+Monofase
+Tipo de cable eléctrico
+Tipo de cable eléctrico
+Frecuencia (Hz)
+Frecuencia (Hz)
+Largo del cable de
+Largo del cable de
+alimentación
+alimentación
+Bornera
+Bornera
+Bifase
+50/60 Hz
+120 cm
+5 polos
+SMEG SPA
+03/07/2025
+SMEG SPA
+03/07/2025
+Accesorios Compatible
+Accesorios Compatible
+GRILLPLATE
+GRILLPLATE
+Universal griddle for induction, gas,
+ceramic and electric hobs. Non-stick
+surface ideal for cooking meat, cheese
+and vegetables. Dimensions: 410 x 240
+mm.
+TPKPLATE
+TPKPLATE
+Universal plate for induction, gas,
+ceramic and electric hobs. Non-stick
+surface ideal for cooking fish, eggs and
+vegetables. Dimensions: 410 X 240 mm.
+SCRP
+SCRP
+Non-scratch hob scraper - suitable for
+induction and ceramic hobs
+SMEG SPA
+03/07/2025
+Symbols glossary
+Symbols glossary
+Permanent auto pot detection
+Bloqueo de control: la opción de bloqueo de
+mandos, presente en diferentes tipos de
+productos, le permite bloquear todas las
+funciones y programas establecidos, así como los
+controles, para una seguridad total,
+especialmente en presencia de niños.
+This function allows you to keep cooked food
+warm without burner it
+Inducción: la placa de inducción funciona a través
+de bobinas circulares que emiten un campo
+magnético solo en contacto con un recipiente con
+un fondo hecho de material ferroso, al que se
+transfiere el calor. Se caracteriza por una mayor
+eficiencia y mayor seguridad.
+Opción Booster: La opción Booster presente en
+las placas de inducción permite que las ollas
+funcionen a la máxima potencia, cuando es
+necesario cocinar alimentos que requieren una
+cocción muy intensa.
+Touch control
+Anti-sobrecalentamiento: el sistema anti-
+sobrecalentamiento provoca un apagado
+automático cuando las temperaturas superan las
+de seguridad
+Anti-desbordamiento: el dispositivo especial
+anti-desbordamiento apaga la placa en
+presencia de desbordamientos de líquido.
+All cooking zones can be reduced to the minimum
+power level, so the hob can be left unattended for
+a short period without food overcooking or
+burning. Then just press again this function, the
+previously set power levels can be reactivated.
+Selección rápida: con la opción de selección
+rápida, la cocción comienza al grado de
+temperatura máxima y luego disminuye
+automáticamente después de un cierto período
+de tiempo.
+Avance rápido: el botón de avance rápido
+aumenta rápidamente el nivel de potencia de
+acuerdo con la configuración preestablecida,
+haciendo que el elemento calefactor funcione al
+máximo hasta que se alcance la temperatura.
+Tiempo transcurrido: la función le permite
+verificar el tiempo transcurrido desde el inicio de
+una sesión de cocción.
+Min diameter pot detection of 7 cm
+Indicador de calor residual: después de apagar la
+zona de cocción, el indicador de calor residual
+indica si el área aún está caliente,
+aprovechándola para mantener calientes los
+alimentos. Cuando la temperatura ha caído por
+debajo de 60 ° C, la luz se apagará.
+Temporizador: Con el temporizador es posible
+programar el apagado de las zonas de cocción
+después de un tiempo de funcionamiento
+establecido, que varía de 1 a 99 minutos. Cuando
+finaliza el período preestablecido, la placa se
+apaga y se activa una señal acústica.
+Possibility to set the maximum power absorbion
+of the hob
+SMEG SPA
+03/07/2025
+Benefit (TT)
+Benefit (TT)
+Induction hobs
+Induction hobs
+Fast cooking and precise temperature control
+Glass
+Glass
+Brightness and elegance in the kitchen: the acid-etched glass gives the surface a refined, modern look that enhances
+the space.
+Ceramic
+Ceramic
+Stability and design even up to 700°C: the cooktop material resists high temperatures without deforming,
+maintaining aesthetics and functionality even with intensive use.
+Immediate access to functions via touch display, for simple and intuitive control
+Control knob position frontal
+Control knob position frontal
+Instant and intuitive control thanks to front controls, easily accessible for practical use.
+Keep W arm function
+Keep W arm function
+Dishes always served at the right temperature, even after cooking, thanks to the Keep Warm function
+Nine power levels and Boost function for optimal cooking performance
+Permanent Automatic Pot Detection with indication of the relative control
+Permanent Automatic Pot Detection with indication of the relative control
+Automatic activation of the correct cooking zone with Autopot Detection, recognizing the pot without user
+intervention
+SMEG SPA
+03/07/2025
