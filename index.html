@@ -533,12 +533,25 @@
         <div class="welcome" id="welcome-state">
           <div class="welcome-icon">🔍</div>
           <h3>¿En qué te puedo ayudar?</h3>
-          <p>Selecciona uno o más productos del panel izquierdo y pregúntame sobre sus especificaciones, diferencias o cuál se adapta mejor a tus necesidades.</p>
-          <div class="suggestions">
-            <div class="suggestion-chip" onclick="useSuggestion(this)">¿Cuáles son las dimensiones del producto?</div>
-            <div class="suggestion-chip" onclick="useSuggestion(this)">Compara los modelos disponibles</div>
-            <div class="suggestion-chip" onclick="useSuggestion(this)">¿Qué SKU recomiendas para uso intensivo?</div>
-            <div class="suggestion-chip" onclick="useSuggestion(this)">¿Qué accesorios incluye?</div>
+          <div style="text-align:left; max-width:480px; margin: 16px auto 0; display:flex; flex-direction:column; gap:16px;">
+            <div style="background:#fff; border:1px solid var(--border); border-radius:10px; padding:16px 20px;">
+              <div style="font-weight:600; color:var(--brand); margin-bottom:6px;">📄 Consultar fichas técnicas</div>
+              <div style="font-size:13px; color:var(--muted); line-height:1.6;">
+                Selecciona uno o más productos del panel izquierdo y escribe tu pregunta. Por ejemplo:<br>
+                <em>"¿Cuáles son las dimensiones?"</em><br>
+                <em>"Compara ambos modelos en una tabla"</em><br>
+                <em>"¿Qué potencia tiene y qué accesorios incluye?"</em>
+              </div>
+            </div>
+            <div style="background:#fff; border:1px solid var(--border); border-radius:10px; padding:16px 20px;">
+              <div style="font-weight:600; color:var(--brand); margin-bottom:6px;">📦 Consultar stock</div>
+              <div style="font-size:13px; color:var(--muted); line-height:1.6;">
+                No necesitas seleccionar productos. Escribe directamente tu consulta. Por ejemplo:<br>
+                <em>"¿Cuántas unidades hay del SKU 16540?"</em><br>
+                <em>"Stock disponible de Refrigerador Smeg"</em><br>
+                <em>"¿Hay inventario del 10037?"</em>
+              </div>
+            </div>
           </div>
         </div>
       </div>
