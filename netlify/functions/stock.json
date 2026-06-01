@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "actualizado_el": "01/06/2026 13:00:30",
+    "actualizado_el": "01/06/2026 13:30:25",
     "total_skus": 5375,
     "skus_con_stock": 5293,
     "fuente": "SAP Business One via ODBC"
@@ -208627,17 +208627,10 @@
           "en_stock": 1,
           "comprometido": 0,
           "disponible": 1
-        },
-        {
-          "codigo": "140",
-          "nombre": "Tienda Temuco",
-          "en_stock": 12,
-          "comprometido": 0,
-          "disponible": 12
         }
       ],
-      "total_stock_disponible": 844,
-      "total_en_stock": 867,
+      "total_stock_disponible": 832,
+      "total_en_stock": 855,
       "total_comprometido": 23
     },
     "15836": {
