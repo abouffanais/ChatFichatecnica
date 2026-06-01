@@ -34,26 +34,58 @@ OUTPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
 
 
 def refrescar_excel(excel_path):
-    """Abre Excel via COM, refresca todas las conexiones ODBC y guarda."""
+    """
+    Refresca el Excel via COM sin cerrar otros libros abiertos.
+    - Si Excel ya estaba abierto: usa esa instancia, no la cierra al terminar
+    - Si Excel no estaba abierto: abre una instancia nueva y la cierra al terminar
+    - Si el archivo ya estaba abierto: no lo cierra al terminar
+    """
     try:
         import win32com.client
-        print("  Abriendo Excel y refrescando conexion ODBC...")
-        excel = win32com.client.Dispatch("Excel.Application")
-        excel.Visible = False
+        abs_path = os.path.abspath(excel_path)
+
+        # Intentar conectarse a Excel ya abierto
+        excel_ya_abierto = False
+        wb_ya_abierto    = False
+        excel = None
+        wb    = None
+
+        try:
+            excel = win32com.client.GetActiveObject("Excel.Application")
+            excel_ya_abierto = True
+            print("  Usando instancia de Excel ya abierta...")
+        except Exception:
+            excel = win32com.client.Dispatch("Excel.Application")
+            excel.Visible = False
+            excel_ya_abierto = False
+            print("  Abriendo nueva instancia de Excel...")
+
         excel.DisplayAlerts = False
 
-        wb = excel.Workbooks.Open(os.path.abspath(excel_path))
+        # Verificar si el archivo ya esta abierto en Excel
+        for w in excel.Workbooks:
+            if w.FullName.lower() == abs_path.lower():
+                wb = w
+                wb_ya_abierto = True
+                print("  Archivo ya abierto en Excel, refrescando...")
+                break
 
-        # Refrescar todas las conexiones (equivale a Datos -> Actualizar todo)
+        if wb is None:
+            wb = excel.Workbooks.Open(abs_path)
+            wb_ya_abierto = False
+
+        # Refrescar conexiones ODBC
         wb.RefreshAll()
-
-        # Esperar a que termine el refresco
         excel.CalculateUntilAsyncQueriesDone()
         time.sleep(3)
-
         wb.Save()
-        wb.Close(False)
-        excel.Quit()
+
+        # Cerrar solo lo que abrimos nosotros
+        if not wb_ya_abierto:
+            wb.Close(False)
+        if not excel_ya_abierto:
+            excel.Quit()
+
         print("  Excel refrescado y guardado [OK]")
         return True
 
