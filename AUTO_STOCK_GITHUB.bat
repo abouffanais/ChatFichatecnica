@@ -15,10 +15,13 @@ echo   %date% %time%
 echo ===============================================
 echo.
 
+:: Verificar dependencias Python
+py -m pip install openpyxl pywin32 --quiet >> "%LOG%" 2>&1
+
 :: Paso 1: Generar el stock.json
 echo [1/3] Generando stock.json desde Excel + SAP...
 echo [1/3] Generando stock.json... >> "%LOG%"
-python "%REPO%\actualizar_stock.py" >> "%LOG%" 2>&1
+py "%REPO%\actualizar_stock.py" >> "%LOG%" 2>&1
 if errorlevel 1 (
     echo ERROR al generar stock.json >> "%LOG%"
     echo ERROR al generar stock.json
