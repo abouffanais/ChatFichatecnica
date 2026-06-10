@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "actualizado_el": "10/06/2026 00:30:25",
+    "actualizado_el": "10/06/2026 01:00:35",
     "total_skus": 5395,
     "skus_con_stock": 5286,
     "fuente": "SAP Business One via ODBC"
@@ -128715,235 +128715,6 @@
       "total_en_stock": 50,
       "total_comprometido": 0
     },
-    "13450": {
-      "sku": "13450",
-      "nombre": "Campana FDV Urban 60",
-      "categoria": "Cocción",
-      "marca": "FDV",
-      "obsoleto": false,
-      "bodegas": [
-        {
-          "codigo": "111",
-          "nombre": "Tienda Concepción",
-          "en_stock": 6,
-          "comprometido": 0,
-          "disponible": 6
-        },
-        {
-          "codigo": "31",
-          "nombre": "Bodega de Logística Inversa",
-          "en_stock": 9,
-          "comprometido": 6,
-          "disponible": 3
-        },
-        {
-          "codigo": "136",
-          "nombre": "Tienda Outlet Park",
-          "en_stock": 6,
-          "comprometido": 1,
-          "disponible": 5
-        },
-        {
-          "codigo": "134",
-          "nombre": "Tienda Easton Temuco",
-          "en_stock": 4,
-          "comprometido": 0,
-          "disponible": 4
-        },
-        {
-          "codigo": "153",
-          "nombre": "Tienda Rancagua",
-          "en_stock": 4,
-          "comprometido": 0,
-          "disponible": 4
-        },
-        {
-          "codigo": "140",
-          "nombre": "Tienda Temuco",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "32",
-          "nombre": "Bodega Post Venta",
-          "en_stock": 7,
-          "comprometido": 1,
-          "disponible": 6
-        },
-        {
-          "codigo": "52",
-          "nombre": "",
-          "en_stock": 30,
-          "comprometido": 0,
-          "disponible": 30
-        },
-        {
-          "codigo": "146",
-          "nombre": "Tienda Outlet La Florida",
-          "en_stock": 6,
-          "comprometido": 0,
-          "disponible": 6
-        },
-        {
-          "codigo": "88",
-          "nombre": "Bodega Productos por Certificar",
-          "en_stock": 20,
-          "comprometido": 0,
-          "disponible": 20
-        },
-        {
-          "codigo": "149",
-          "nombre": "Tienda Chillan",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "149",
-          "nombre": "Tienda Chillan",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "143",
-          "nombre": "Tienda Easton Quilicura",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "103",
-          "nombre": "Tienda Talca",
-          "en_stock": 4,
-          "comprometido": 0,
-          "disponible": 4
-        },
-        {
-          "codigo": "126",
-          "nombre": "Tienda Parque Arauco",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "147",
-          "nombre": "Tienda San Pedro",
-          "en_stock": 4,
-          "comprometido": 0,
-          "disponible": 4
-        },
-        {
-          "codigo": "600",
-          "nombre": "Devoluciones",
-          "en_stock": 7,
-          "comprometido": 0,
-          "disponible": 7
-        },
-        {
-          "codigo": "21",
-          "nombre": "Bodega Retail",
-          "en_stock": 235,
-          "comprometido": 13,
-          "disponible": 222
-        },
-        {
-          "codigo": "125",
-          "nombre": "Tienda El Salto",
-          "en_stock": 7,
-          "comprometido": 0,
-          "disponible": 7
-        },
-        {
-          "codigo": "01",
-          "nombre": "Productos disponibles para Venta (1ra-2da)",
-          "en_stock": 449,
-          "comprometido": 54,
-          "disponible": 395
-        },
-        {
-          "codigo": "145",
-          "nombre": "Tienda Outlet Maipu",
-          "en_stock": 3,
-          "comprometido": 1,
-          "disponible": 2
-        },
-        {
-          "codigo": "50",
-          "nombre": "Transito Instalaciones KC",
-          "en_stock": 8,
-          "comprometido": 3,
-          "disponible": 5
-        },
-        {
-          "codigo": "154",
-          "nombre": "",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "131",
-          "nombre": "Tienda Buenaventura",
-          "en_stock": 4,
-          "comprometido": 0,
-          "disponible": 4
-        },
-        {
-          "codigo": "132",
-          "nombre": "Tienda Los Dominicos",
-          "en_stock": 3,
-          "comprometido": 0,
-          "disponible": 3
-        },
-        {
-          "codigo": "401",
-          "nombre": "",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "04",
-          "nombre": "Bodega Ajustes Inventario WMS",
-          "en_stock": 4,
-          "comprometido": 0,
-          "disponible": 4
-        },
-        {
-          "codigo": "148",
-          "nombre": "Tienda Oulet Puerto Montt",
-          "en_stock": 3,
-          "comprometido": 0,
-          "disponible": 3
-        },
-        {
-          "codigo": "151",
-          "nombre": "Tienda las Condes Design",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "30",
-          "nombre": "Bodega Repuestos Lautaro",
-          "en_stock": 2,
-          "comprometido": 1,
-          "disponible": 1
-        },
-        {
-          "codigo": "35",
-          "nombre": "Bodega Técnicos SAT",
-          "en_stock": 5,
-          "comprometido": 3,
-          "disponible": 2
-        }
-      ],
-      "total_stock_disponible": 758,
-      "total_en_stock": 841,
-      "total_comprometido": 83
-    },
     "23700": {
       "sku": "23700",
       "nombre": "Accesorio SUPERCOOK - FoodPro",
@@ -150735,81 +150506,6 @@
       "total_en_stock": 5,
       "total_comprometido": 0
     },
-    "16308": {
-      "sku": "16308",
-      "nombre": "Campana New Conic 60 FDV",
-      "categoria": "Cocción",
-      "marca": "FDV",
-      "obsoleto": false,
-      "bodegas": [
-        {
-          "codigo": "147",
-          "nombre": "Tienda San Pedro",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "148",
-          "nombre": "Tienda Oulet Puerto Montt",
-          "en_stock": 6,
-          "comprometido": 0,
-          "disponible": 6
-        },
-        {
-          "codigo": "145",
-          "nombre": "Tienda Outlet Maipu",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "134",
-          "nombre": "Tienda Easton Temuco",
-          "en_stock": 5,
-          "comprometido": 0,
-          "disponible": 5
-        },
-        {
-          "codigo": "131",
-          "nombre": "Tienda Buenaventura",
-          "en_stock": 1,
-          "comprometido": 1,
-          "disponible": 0
-        },
-        {
-          "codigo": "113",
-          "nombre": "Tienda La Serena",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "146",
-          "nombre": "Tienda Outlet La Florida",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "21",
-          "nombre": "Bodega Retail",
-          "en_stock": 19,
-          "comprometido": 0,
-          "disponible": 19
-        },
-        {
-          "codigo": "140",
-          "nombre": "Tienda Temuco",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        }
-      ],
-      "total_stock_disponible": 36,
-      "total_en_stock": 37,
-      "total_comprometido": 1
-    },
     "80103": {
       "sku": "80103",
       "nombre": "Sal carmenere Molinillo 65gr Coquinaria",
@@ -165521,193 +165217,6 @@
       "total_stock_disponible": 213,
       "total_en_stock": 323,
       "total_comprometido": 110
-    },
-    "19110": {
-      "sku": "19110",
-      "nombre": "Horno Empotrado Design 57 Lts FDV",
-      "categoria": "Cocción",
-      "marca": "FDV",
-      "obsoleto": false,
-      "bodegas": [
-        {
-          "codigo": "134",
-          "nombre": "Tienda Easton Temuco",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "147",
-          "nombre": "Tienda San Pedro",
-          "en_stock": 3,
-          "comprometido": 0,
-          "disponible": 3
-        },
-        {
-          "codigo": "143",
-          "nombre": "Tienda Easton Quilicura",
-          "en_stock": 1,
-          "comprometido": 1,
-          "disponible": 0
-        },
-        {
-          "codigo": "111",
-          "nombre": "Tienda Concepción",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "148",
-          "nombre": "Tienda Oulet Puerto Montt",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "52",
-          "nombre": "",
-          "en_stock": 78,
-          "comprometido": 0,
-          "disponible": 78
-        },
-        {
-          "codigo": "149",
-          "nombre": "Tienda Chillan",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "149",
-          "nombre": "Tienda Chillan",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "145",
-          "nombre": "Tienda Outlet Maipu",
-          "en_stock": 3,
-          "comprometido": 0,
-          "disponible": 3
-        },
-        {
-          "codigo": "125",
-          "nombre": "Tienda El Salto",
-          "en_stock": 7,
-          "comprometido": 0,
-          "disponible": 7
-        },
-        {
-          "codigo": "21",
-          "nombre": "Bodega Retail",
-          "en_stock": 16,
-          "comprometido": 20,
-          "disponible": -4
-        },
-        {
-          "codigo": "153",
-          "nombre": "Tienda Rancagua",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "131",
-          "nombre": "Tienda Buenaventura",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "144",
-          "nombre": "Tienda Marina 2.0",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "600",
-          "nombre": "Devoluciones",
-          "en_stock": 33,
-          "comprometido": 0,
-          "disponible": 33
-        },
-        {
-          "codigo": "10",
-          "nombre": "Centro de Distribución ENEA",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "40",
-          "nombre": "Bodega Certificación Externa",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "30",
-          "nombre": "Bodega Repuestos Lautaro",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "05",
-          "nombre": "Bodega Stock de Seguridad",
-          "en_stock": 3,
-          "comprometido": 0,
-          "disponible": 3
-        },
-        {
-          "codigo": "50",
-          "nombre": "Transito Instalaciones KC",
-          "en_stock": 13,
-          "comprometido": 18,
-          "disponible": -5
-        },
-        {
-          "codigo": "136",
-          "nombre": "Tienda Outlet Park",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "31",
-          "nombre": "Bodega de Logística Inversa",
-          "en_stock": 17,
-          "comprometido": 12,
-          "disponible": 5
-        },
-        {
-          "codigo": "401",
-          "nombre": "",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "01",
-          "nombre": "Productos disponibles para Venta (1ra-2da)",
-          "en_stock": 16,
-          "comprometido": 37,
-          "disponible": -21
-        },
-        {
-          "codigo": "103",
-          "nombre": "Tienda Talca",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        }
-      ],
-      "total_stock_disponible": 123,
-      "total_en_stock": 211,
-      "total_comprometido": 88
     },
     "80292": {
       "sku": "80292",
@@ -211143,6 +210652,497 @@
       "total_stock_disponible": 186,
       "total_en_stock": 197,
       "total_comprometido": 11
+    },
+    "16308": {
+      "sku": "16308",
+      "nombre": "Campana New Conic 60 FDV",
+      "categoria": "Cocción",
+      "marca": "FDV",
+      "obsoleto": false,
+      "bodegas": [
+        {
+          "codigo": "147",
+          "nombre": "Tienda San Pedro",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "148",
+          "nombre": "Tienda Oulet Puerto Montt",
+          "en_stock": 6,
+          "comprometido": 0,
+          "disponible": 6
+        },
+        {
+          "codigo": "145",
+          "nombre": "Tienda Outlet Maipu",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "134",
+          "nombre": "Tienda Easton Temuco",
+          "en_stock": 5,
+          "comprometido": 0,
+          "disponible": 5
+        },
+        {
+          "codigo": "131",
+          "nombre": "Tienda Buenaventura",
+          "en_stock": 1,
+          "comprometido": 1,
+          "disponible": 0
+        },
+        {
+          "codigo": "113",
+          "nombre": "Tienda La Serena",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "146",
+          "nombre": "Tienda Outlet La Florida",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "21",
+          "nombre": "Bodega Retail",
+          "en_stock": 19,
+          "comprometido": 0,
+          "disponible": 19
+        },
+        {
+          "codigo": "140",
+          "nombre": "Tienda Temuco",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        }
+      ],
+      "total_stock_disponible": 36,
+      "total_en_stock": 37,
+      "total_comprometido": 1
+    },
+    "13450": {
+      "sku": "13450",
+      "nombre": "Campana FDV Urban 60",
+      "categoria": "Cocción",
+      "marca": "FDV",
+      "obsoleto": false,
+      "bodegas": [
+        {
+          "codigo": "111",
+          "nombre": "Tienda Concepción",
+          "en_stock": 6,
+          "comprometido": 0,
+          "disponible": 6
+        },
+        {
+          "codigo": "31",
+          "nombre": "Bodega de Logística Inversa",
+          "en_stock": 9,
+          "comprometido": 6,
+          "disponible": 3
+        },
+        {
+          "codigo": "136",
+          "nombre": "Tienda Outlet Park",
+          "en_stock": 6,
+          "comprometido": 1,
+          "disponible": 5
+        },
+        {
+          "codigo": "134",
+          "nombre": "Tienda Easton Temuco",
+          "en_stock": 4,
+          "comprometido": 0,
+          "disponible": 4
+        },
+        {
+          "codigo": "153",
+          "nombre": "Tienda Rancagua",
+          "en_stock": 4,
+          "comprometido": 0,
+          "disponible": 4
+        },
+        {
+          "codigo": "140",
+          "nombre": "Tienda Temuco",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "32",
+          "nombre": "Bodega Post Venta",
+          "en_stock": 7,
+          "comprometido": 1,
+          "disponible": 6
+        },
+        {
+          "codigo": "52",
+          "nombre": "",
+          "en_stock": 30,
+          "comprometido": 0,
+          "disponible": 30
+        },
+        {
+          "codigo": "146",
+          "nombre": "Tienda Outlet La Florida",
+          "en_stock": 6,
+          "comprometido": 0,
+          "disponible": 6
+        },
+        {
+          "codigo": "88",
+          "nombre": "Bodega Productos por Certificar",
+          "en_stock": 20,
+          "comprometido": 0,
+          "disponible": 20
+        },
+        {
+          "codigo": "149",
+          "nombre": "Tienda Chillan",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "149",
+          "nombre": "Tienda Chillan",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "143",
+          "nombre": "Tienda Easton Quilicura",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "103",
+          "nombre": "Tienda Talca",
+          "en_stock": 4,
+          "comprometido": 0,
+          "disponible": 4
+        },
+        {
+          "codigo": "126",
+          "nombre": "Tienda Parque Arauco",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "147",
+          "nombre": "Tienda San Pedro",
+          "en_stock": 4,
+          "comprometido": 0,
+          "disponible": 4
+        },
+        {
+          "codigo": "600",
+          "nombre": "Devoluciones",
+          "en_stock": 7,
+          "comprometido": 0,
+          "disponible": 7
+        },
+        {
+          "codigo": "21",
+          "nombre": "Bodega Retail",
+          "en_stock": 235,
+          "comprometido": 13,
+          "disponible": 222
+        },
+        {
+          "codigo": "125",
+          "nombre": "Tienda El Salto",
+          "en_stock": 7,
+          "comprometido": 0,
+          "disponible": 7
+        },
+        {
+          "codigo": "01",
+          "nombre": "Productos disponibles para Venta (1ra-2da)",
+          "en_stock": 449,
+          "comprometido": 54,
+          "disponible": 395
+        },
+        {
+          "codigo": "145",
+          "nombre": "Tienda Outlet Maipu",
+          "en_stock": 3,
+          "comprometido": 1,
+          "disponible": 2
+        },
+        {
+          "codigo": "50",
+          "nombre": "Transito Instalaciones KC",
+          "en_stock": 8,
+          "comprometido": 3,
+          "disponible": 5
+        },
+        {
+          "codigo": "154",
+          "nombre": "",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "131",
+          "nombre": "Tienda Buenaventura",
+          "en_stock": 4,
+          "comprometido": 0,
+          "disponible": 4
+        },
+        {
+          "codigo": "132",
+          "nombre": "Tienda Los Dominicos",
+          "en_stock": 3,
+          "comprometido": 0,
+          "disponible": 3
+        },
+        {
+          "codigo": "401",
+          "nombre": "",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "04",
+          "nombre": "Bodega Ajustes Inventario WMS",
+          "en_stock": 4,
+          "comprometido": 0,
+          "disponible": 4
+        },
+        {
+          "codigo": "148",
+          "nombre": "Tienda Oulet Puerto Montt",
+          "en_stock": 3,
+          "comprometido": 0,
+          "disponible": 3
+        },
+        {
+          "codigo": "151",
+          "nombre": "Tienda las Condes Design",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "30",
+          "nombre": "Bodega Repuestos Lautaro",
+          "en_stock": 2,
+          "comprometido": 1,
+          "disponible": 1
+        },
+        {
+          "codigo": "35",
+          "nombre": "Bodega Técnicos SAT",
+          "en_stock": 5,
+          "comprometido": 3,
+          "disponible": 2
+        }
+      ],
+      "total_stock_disponible": 758,
+      "total_en_stock": 841,
+      "total_comprometido": 83
+    },
+    "19110": {
+      "sku": "19110",
+      "nombre": "Horno Empotrado Design 57 Lts FDV",
+      "categoria": "Cocción",
+      "marca": "FDV",
+      "obsoleto": false,
+      "bodegas": [
+        {
+          "codigo": "134",
+          "nombre": "Tienda Easton Temuco",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "147",
+          "nombre": "Tienda San Pedro",
+          "en_stock": 3,
+          "comprometido": 0,
+          "disponible": 3
+        },
+        {
+          "codigo": "143",
+          "nombre": "Tienda Easton Quilicura",
+          "en_stock": 1,
+          "comprometido": 1,
+          "disponible": 0
+        },
+        {
+          "codigo": "111",
+          "nombre": "Tienda Concepción",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "148",
+          "nombre": "Tienda Oulet Puerto Montt",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "52",
+          "nombre": "",
+          "en_stock": 78,
+          "comprometido": 0,
+          "disponible": 78
+        },
+        {
+          "codigo": "149",
+          "nombre": "Tienda Chillan",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "149",
+          "nombre": "Tienda Chillan",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "145",
+          "nombre": "Tienda Outlet Maipu",
+          "en_stock": 3,
+          "comprometido": 0,
+          "disponible": 3
+        },
+        {
+          "codigo": "125",
+          "nombre": "Tienda El Salto",
+          "en_stock": 7,
+          "comprometido": 0,
+          "disponible": 7
+        },
+        {
+          "codigo": "21",
+          "nombre": "Bodega Retail",
+          "en_stock": 16,
+          "comprometido": 20,
+          "disponible": -4
+        },
+        {
+          "codigo": "153",
+          "nombre": "Tienda Rancagua",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "131",
+          "nombre": "Tienda Buenaventura",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "144",
+          "nombre": "Tienda Marina 2.0",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "600",
+          "nombre": "Devoluciones",
+          "en_stock": 33,
+          "comprometido": 0,
+          "disponible": 33
+        },
+        {
+          "codigo": "10",
+          "nombre": "Centro de Distribución ENEA",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "40",
+          "nombre": "Bodega Certificación Externa",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "30",
+          "nombre": "Bodega Repuestos Lautaro",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "05",
+          "nombre": "Bodega Stock de Seguridad",
+          "en_stock": 3,
+          "comprometido": 0,
+          "disponible": 3
+        },
+        {
+          "codigo": "50",
+          "nombre": "Transito Instalaciones KC",
+          "en_stock": 13,
+          "comprometido": 18,
+          "disponible": -5
+        },
+        {
+          "codigo": "136",
+          "nombre": "Tienda Outlet Park",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "31",
+          "nombre": "Bodega de Logística Inversa",
+          "en_stock": 17,
+          "comprometido": 12,
+          "disponible": 5
+        },
+        {
+          "codigo": "401",
+          "nombre": "",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "01",
+          "nombre": "Productos disponibles para Venta (1ra-2da)",
+          "en_stock": 16,
+          "comprometido": 37,
+          "disponible": -21
+        },
+        {
+          "codigo": "103",
+          "nombre": "Tienda Talca",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        }
+      ],
+      "total_stock_disponible": 123,
+      "total_en_stock": 211,
+      "total_comprometido": 88
     }
   }
 }
