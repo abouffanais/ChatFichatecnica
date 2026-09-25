@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "actualizado_el": "25/09/2026 10:28:34",
+    "actualizado_el": "25/09/2026 10:30:49",
     "total_skus": 5698,
     "skus_con_stock": 5607,
     "fuente": "SAP Business One via ODBC"
@@ -16825,6 +16825,81 @@
       "total_stock_disponible": 1775,
       "total_en_stock": 1852,
       "total_comprometido": 77
+    },
+    "14276": {
+      "sku": "14276",
+      "nombre": "Parrilla Electrica Empotrada FDV Elite",
+      "categoria": "Cocción",
+      "marca": "FDV",
+      "obsoleto": false,
+      "bodegas": [
+        {
+          "codigo": "31",
+          "nombre": "Bodega de Logística Inversa",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "01",
+          "nombre": "Productos disponibles para Venta (1ra-2da)",
+          "en_stock": 134,
+          "comprometido": 0,
+          "disponible": 134
+        },
+        {
+          "codigo": "21",
+          "nombre": "Bodega Retail",
+          "en_stock": 51,
+          "comprometido": 0,
+          "disponible": 51
+        },
+        {
+          "codigo": "150",
+          "nombre": "Tienda la Dehesa",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "146",
+          "nombre": "Tienda Outlet La Florida",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "149",
+          "nombre": "Tienda Chillan",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "149",
+          "nombre": "Tienda Chillan",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        },
+        {
+          "codigo": "144",
+          "nombre": "Tienda Marina 2.0",
+          "en_stock": 2,
+          "comprometido": 0,
+          "disponible": 2
+        },
+        {
+          "codigo": "154",
+          "nombre": "",
+          "en_stock": 1,
+          "comprometido": 0,
+          "disponible": 1
+        }
+      ],
+      "total_stock_disponible": 193,
+      "total_en_stock": 193,
+      "total_comprometido": 0
     },
     "14278": {
       "sku": "14278",
@@ -82095,81 +82170,6 @@
       "total_stock_disponible": 4,
       "total_en_stock": 5,
       "total_comprometido": 1
-    },
-    "14276": {
-      "sku": "14276",
-      "nombre": "Parrilla Electrica Empotrada FDV Elite",
-      "categoria": "Cocción",
-      "marca": "FDV",
-      "obsoleto": false,
-      "bodegas": [
-        {
-          "codigo": "31",
-          "nombre": "Bodega de Logística Inversa",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "01",
-          "nombre": "Productos disponibles para Venta (1ra-2da)",
-          "en_stock": 134,
-          "comprometido": 0,
-          "disponible": 134
-        },
-        {
-          "codigo": "21",
-          "nombre": "Bodega Retail",
-          "en_stock": 51,
-          "comprometido": 0,
-          "disponible": 51
-        },
-        {
-          "codigo": "150",
-          "nombre": "Tienda la Dehesa",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "146",
-          "nombre": "Tienda Outlet La Florida",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "149",
-          "nombre": "Tienda Chillan",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "149",
-          "nombre": "Tienda Chillan",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        },
-        {
-          "codigo": "144",
-          "nombre": "Tienda Marina 2.0",
-          "en_stock": 2,
-          "comprometido": 0,
-          "disponible": 2
-        },
-        {
-          "codigo": "154",
-          "nombre": "",
-          "en_stock": 1,
-          "comprometido": 0,
-          "disponible": 1
-        }
-      ],
-      "total_stock_disponible": 193,
-      "total_en_stock": 193,
-      "total_comprometido": 0
     },
     "14279": {
       "sku": "14279",
